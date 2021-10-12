@@ -1,0 +1,19 @@
+{
+  "name": "professional",
+  "version": "1.0.0",
+  "description": "Portfolio",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brendonjhawkins/professional.git"
+  },
+  "author": "Brendon Hawkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brendonjhawkins/professional/issues"
+  },
+  "homepage": "https://github.com/Brendonjhawkins/professional#readme"
+}
