@@ -432,7 +432,7 @@ p {
 
 .hero-content .list-social li i {
   color: #fff;
-  font-size: 15px;
+  font-size: 25px;
 }
 
 /*--------------------------------------------------------------
@@ -499,7 +499,7 @@ p {
 
 #about .div-img-bg {
   padding-bottom: 30px;
-  border: 20px solid green;
+  border: 20px solid black;
 }
 
 #about .div-img-bg .about-img img {
@@ -552,7 +552,7 @@ p {
 
 .services-block i {
   font-size: 44px;
-  color: green;
+  color: #654321;
   line-height: 44px;
 }
 
@@ -565,10 +565,10 @@ p {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid green;
+  border: 1px solid #654321;
 }
 .services-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: green;
+  background-color: #654321;
 }
 
 /*--------------------------------------------------------------
