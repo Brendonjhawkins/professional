@@ -134,7 +134,7 @@ p {
 }
 
 .hvr-shutter-in-horizontal:hover {
-  background: green;
+  background: brown;
 }
 
 .mb-30 {
@@ -156,7 +156,7 @@ p {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: green;
+  background: brown;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -249,7 +249,7 @@ p {
   margin-left: 5px;
 }
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: green;
+  color: brown;
 }
 .navbar .dropdown ul {
   display: block;
@@ -276,7 +276,7 @@ p {
   font-size: 12px;
 }
 .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
-  color: green;
+  color: brown;
 }
 .navbar .dropdown:hover > ul {
   opacity: 1;
@@ -361,7 +361,7 @@ p {
   color: #4b4a4a;
 }
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-  color: green;
+  color: brown;
 }
 .navbar-mobile .getstarted, .navbar-mobile .getstarted:focus {
   margin: 15px;
@@ -387,7 +387,7 @@ p {
   font-size: 12px;
 }
 .navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
-  color: green;
+  color: brown;
 }
 .navbar-mobile .dropdown > .dropdown-active {
   display: block;
@@ -657,6 +657,10 @@ p {
   height: 30vh;
 }
 
+.journal-head h2{
+  color: black;
+}
+
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
@@ -675,10 +679,10 @@ p {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid green;
+  border: 1px solid brown;
 }
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: green;
+  background-color: brown;
 }
 .portfolio-details .portfolio-info {
   padding: 30px;
@@ -809,7 +813,7 @@ p {
 .php-email-form .sent-message {
   display: none;
   color: #fff;
-  background: #18d26e;
+  background: brown;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -1022,7 +1026,7 @@ blockquote {
 }
 
 #footer .socials-media ul li a:hover {
-  color: green;
+  color: brown;
   transition: all 0.5s ease-in-out 0s;
 }
 
